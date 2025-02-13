@@ -1,1 +1,1 @@
-# Typer
+This program lets you paste text, click the "Start Writing" button, and after a few seconds, it rapidly types out the pasted content. It’s a simple and fun tool for automating text input, nade to bypass the anti-pasting of some websites.
